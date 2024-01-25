@@ -1,0 +1,16 @@
+[2024-01-24 14:53:55] local.ERROR: Trait "Maize\Markable\Markable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Maize\\Markable\\Markable\" not found at C:\\Users\\dewmi\\Downloads\\Heena-website-main\\Heena-website-main\\app\\Models\\Book.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2024-01-24 14:55:05] local.ERROR: Trait "Maize\Markable\Markable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Maize\\Markable\\Markable\" not found at C:\\Users\\dewmi\\Downloads\\Heena-website-main\\Heena-website-main\\app\\Models\\Book.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2024-01-24 15:01:39] local.ERROR: Trait "Maize\Markable\Markable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Maize\\Markable\\Markable\" not found at C:\\Users\\dewmi\\Downloads\\Heena-website-main\\Heena-website-main\\app\\Models\\Book.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2024-01-24 15:17:53] local.ERROR: Trait "Maize\Markable\Markable" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Maize\\Markable\\Markable\" not found at C:\\Users\\dewmi\\Downloads\\Heena-website-main\\Heena-website-main\\app\\Models\\Book.php:9)
+[stacktrace]
+#0 {main}
+"} 
