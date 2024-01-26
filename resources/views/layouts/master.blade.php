@@ -6,7 +6,7 @@
   <meta name="description" content="">
   <meta name="author" content="ScriptsBundle">
   <meta name="csrf-token" content="{{ csrf_token() }}">
-  <title>Heena Publishers (Pvt) Ltd.</title>
+  <title>Y-Art Cafe</title>
   <!-- =-=-=-=-=-=-= Favicons Icon =-=-=-=-=-=-= -->
   <link rel="icon" href="{{ asset('img/favicon.ico') }}" type="image/x-icon" />
   <!-- =-=-=-=-=-=-= Mobile Specific =-=-=-=-=-=-= -->

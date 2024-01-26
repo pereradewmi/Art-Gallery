@@ -18,18 +18,18 @@ Home
 			style="height: 200px;" />
 		<h3 class="ms-layer title4 font-white  font-thin-xs" style="left:120px; top:150px;" data-type="text"
 			data-delay="2000" data-duration="2000" data-ease="easeOutExpo" data-effect="skewleft(30,80)">Welcome to
-			Heena Publishers</h3>
+			Picazo - Art Gallery</h3>
 		<h3 class="ms-layer title4 font-white font-thin-xs" style="left:120px; top:210px;" data-type="text"
 			data-delay="2500" data-duration="2000" data-ease="easeOutExpo" data-effect="skewleft(30,80)"><span
-				class="font-color font-thin-xs heading-color">Your Gateway to a World of Books</span></h3>
+				class="font-color font-thin-xs heading-color">Your Gateway to a World of Arts</span></h3>
 		<h5 class="ms-layer text1 font-white" style="left: 120px; top: 280px;" data-type="text" data-effect="bottom(45)"
-			data-duration="2500" data-delay="3000" data-ease="easeOutExpo">At Heena Publishers, we pride ourselves on being more than just a book selling website.<br>
+			data-duration="2500" data-delay="3000" data-ease="easeOutExpo">At Picazo, we pride ourselves on being more than just a book selling website.<br>
 			 We are your literary companion, committed to providing  an unparalleled reading experience.
 		</h5>
 		<a href="<?php echo e(route('books')); ?>" class="ms-layer btn3" style="left:120px; top: 390px; border-radius: 50px;"
 			data-type="text" data-delay="3500" data-ease="easeOutExpo" data-duration="2000"
 			data-effect="scale(1.5,1.6)">
-			View All Books</a>
+			View All Arts</a>
 
 	</div>
 
@@ -38,17 +38,17 @@ Home
 			alt="Slide1 background" />
 		<h3 class="ms-layer title4 font-white  font-thin-xs" style="left:120px; top:150px;" data-type="text"
 			data-delay="2000" data-duration="2000" data-ease="easeOutExpo" data-effect="skewleft(30,80)">Welcome to
-			Heena Publishers</h3>
+			Picazo - Art Gallery</h3>
 		<h3 class="ms-layer title4 font-white font-thin-xs" style="left:120px; top:210px;" data-type="text"
 			data-delay="2500" data-duration="2000" data-ease="easeOutExpo" data-effect="skewleft(30,80)"><span
-				class="font-color font-thin-xs heading-color">Your Gateway to a World of Books</span></h3>
+				class="font-color font-thin-xs heading-color">Your Gateway to a World of Arts</span></h3>
 		<h5 class="ms-layer text1 font-white" style="left: 120px; top: 280px;" data-type="text" data-effect="bottom(45)"
-			data-duration="2500" data-delay="3000" data-ease="easeOutExpo">At Heena Publishers, we pride ourselves on being more than just a book selling website.<br>
+			data-duration="2500" data-delay="3000" data-ease="easeOutExpo">At Picazo, we pride ourselves on being more than just a book selling website.<br>
 			 We are your literary companion, committed to providing an unparalleled reading experience.
 		</h5>
 		<a href="<?php echo e(route('books')); ?>" class="ms-layer btn3 " style="left:120px; top: 390px;border-radius: 50px;"
 			data-type="text" data-delay="3500" data-ease="easeOutExpo" data-duration="2000"
-			data-effect="scale(1.5,1.6)"> View All Books</a>
+			data-effect="scale(1.5,1.6)"> View All Arts</a>
 	</div>
 
 	<div class="ms-slide slide-2" data-delay="4">
@@ -57,17 +57,17 @@ Home
 			alt="Slide1 background" />
 		<h3 class="ms-layer title4 font-white  font-thin-xs" style="left:120px; top:150px;" data-type="text"
 			data-delay="2000" data-duration="2000" data-ease="easeOutExpo" data-effect="skewleft(30,80)">Welcome to
-			Heena Publishers</h3>
+			Picazo - Art Gallery</h3>
 		<h3 class="ms-layer title4 font-white font-thin-xs" style="left:120px; top:210px;" data-type="text"
 			data-delay="2500" data-duration="2000" data-ease="easeOutExpo" data-effect="skewleft(30,80)"><span
-				class="font-color font-thin-xs heading-color">Your Gateway to a World of Books</span></h3>
+				class="font-color font-thin-xs heading-color">Your Gateway to a World of Arts</span></h3>
 		<h5 class="ms-layer text1 font-white" style="left: 120px; top: 280px;" data-type="text" data-effect="bottom(45)"
-			data-duration="2500" data-delay="3000" data-ease="easeOutExpo">At Heena Publishers, we pride ourselves on being more than just a book selling website.<br>
+			data-duration="2500" data-delay="3000" data-ease="easeOutExpo">At Picazo, we pride ourselves on being more than just a book selling website.<br>
 			 We are your literary companion, committed to providing an unparalleled reading experience.
 		</h5>
 		<a href="<?php echo e(route('books')); ?>" class="ms-layer btn3 uppercase"
 			style="left:120px; top: 390px;border-radius: 50px;" data-type="text" data-delay="3500"
-			data-ease="easeOutExpo" data-duration="2000" data-effect="scale(1.5,1.6)"> View All Books</a>
+			data-ease="easeOutExpo" data-duration="2000" data-effect="scale(1.5,1.6)"> View All Arts</a>
 	</div>
 </div>
 

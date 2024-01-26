@@ -61,7 +61,7 @@
                                 <a href="<?php echo e(route('home')); ?>">Home </a>
                             </li>
                             <li>
-                                <a href="<?php echo e(route('books')); ?>">Books</a>
+                                <a href="<?php echo e(route('books')); ?>">Arts</a>
                             </li>
                             <li>
                                 <a href="<?php echo e(route('about-us')); ?>">About Us</a>

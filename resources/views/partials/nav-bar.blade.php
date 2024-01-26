@@ -74,7 +74,7 @@
                                 <a href="{{ route('home') }}">Home </a>
                             </li>
                             <li>
-                                <a href="{{ route('books') }}">Books</a>
+                                <a href="{{ route('books') }}">Arts</a>
                             </li>
                             <li>
                                 <a href="{{ route('about-us') }}">About Us</a>

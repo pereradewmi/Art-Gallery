@@ -6,7 +6,7 @@
   <meta name="description" content="">
   <meta name="author" content="ScriptsBundle">
   <meta name="csrf-token" content="<?php echo e(csrf_token()); ?>">
-  <title>Heena Publishers (Pvt) Ltd.</title>
+  <title>Y-Art Cafe</title>
   <!-- =-=-=-=-=-=-= Favicons Icon =-=-=-=-=-=-= -->
   <link rel="icon" href="<?php echo e(asset('img/favicon.ico')); ?>" type="image/x-icon" />
   <!-- =-=-=-=-=-=-= Mobile Specific =-=-=-=-=-=-= -->
