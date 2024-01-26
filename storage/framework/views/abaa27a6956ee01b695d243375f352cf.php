@@ -1,0 +1,1 @@
+<div class="preloader"></div><?php /**PATH C:\Users\dewmi\OneDrive\Desktop\Art-Gallery\resources\views/partials/page-loader.blade.php ENDPATH**/ ?>
